@@ -22,5 +22,7 @@ public class Main {
         }
 
         System.out.println("Gotowe!");
+
+        System.out.println("2+2=" + (2 + 2));
     }
 }
